@@ -1,4 +1,3 @@
-# Holy Potatoe Tools
 <img src="https://i.imgur.com/tJSEwMh.png" width="600" alt="Holy Potatoes Tools Banner"/>
 A command-line tool for managing save files and game data from Holy Potatoes! A Weapon Shop!
 
