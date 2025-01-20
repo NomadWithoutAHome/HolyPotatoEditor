@@ -1,0 +1,4 @@
+click>=8.1.7
+pythonnet==3.0.5
+UnityPy==1.20.17
+pycryptodome==3.19.0 
