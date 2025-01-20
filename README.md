@@ -1,6 +1,9 @@
 <img src="https://i.imgur.com/ycohslF.png" width="600" alt="Holy Potatoes Tools Banner"/>
 A command-line tool for managing save files and game data from Holy Potatoes! A Weapon Shop!
 
+
+**ALWAYS BACKUP FILES BEFORE USING THIS TOOL**
+
 ## Documentation
 
 This project includes detailed technical documentation in `TechDocs.md` that explains:
