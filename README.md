@@ -175,4 +175,5 @@ This project is released into the public domain under the [Unlicense](https://un
 
 - Thanks to the Holy Potatoes! A Weapon Shop! community
 - Built with [Click](https://click.palletsprojects.com/) framework
-- Uses [UnityPy](https://github.com/K0lb3/UnityPy) for Unity asset extraction 
+- Uses [UnityPy](https://github.com/K0lb3/UnityPy) for Unity asset extraction
+- All Rights Reserved  [Daylight Studios](https://www.day-lightstudios.com/work/holy-potatoes-a-weapon-shop)
