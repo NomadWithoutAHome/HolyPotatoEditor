@@ -169,7 +169,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is released under the MIT License. See the LICENSE file for details.
+This project is released into the public domain under the [Unlicense](https://unlicense.org/). You can copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
 
 ## Acknowledgments
 
