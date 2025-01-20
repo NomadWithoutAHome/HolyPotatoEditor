@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/tJSEwMh.png" width="600" alt="Holy Potatoes Tools Banner"/>
+<img src="https://i.imgur.com/ycohslF.png" width="600" alt="Holy Potatoes Tools Banner"/>
 A command-line tool for managing save files and game data from Holy Potatoes! A Weapon Shop!
 
 ## Documentation
