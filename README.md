@@ -121,6 +121,17 @@ python cli.py asset "C:\Path\To\WSREFDATA.json" --encrypt
 
 > **Note**: While this tool can create encrypted reference data files, you'll still need to use [UABEA (Unity Asset Bundle Extractor Avalonia)](https://github.com/nesrak1/UABEA) to insert them back into the resources.assets file. UABEA is a cross-platform tool for reading and writing Unity asset bundles and serialized files.
 
+## Troubleshooting
+
+If you encounter JSON errors when trying to encrypt WSREFDATA.json, you can use [CodeBeautify's JSON Fixer](https://codebeautify.org/json-fixer) as a temporary solution:
+1. Copy your WSREFDATA.json content
+2. Paste it into the JSON Fixer
+3. Click "Fix JSON"
+4. Save the fixed content back to WSREFDATA.json
+5. Try the encryption again
+
+This is a temporary workaround until an automatic solution is implemented.
+
 ## Editing JSON Files
 
 You can edit the extracted JSON files with any text editor of your choice. However, for the best experience with large JSON files, we recommend using [JSON Editor Online](https://jsoneditoronline.org/). This web-based editor offers:
