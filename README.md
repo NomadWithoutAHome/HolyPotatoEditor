@@ -1,4 +1,4 @@
-# Holy Potatoes Tools - Command Line Tools
+# Holy Potatoe Tools
 
 A command-line tool for managing save files and game data from Holy Potatoes! A Weapon Shop!
 
